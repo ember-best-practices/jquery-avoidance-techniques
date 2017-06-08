@@ -1,0 +1,1 @@
+# jquery-avoidance-techniques
